@@ -1,6 +1,5 @@
 streamlit
 gtts
-playsound
 deep-translator
 pyperclip
 reportlab
