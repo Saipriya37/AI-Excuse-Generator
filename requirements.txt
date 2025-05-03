@@ -1,0 +1,5 @@
+streamlit
+gtts
+playsounddeep-translator
+pyperclip
+reportlab
